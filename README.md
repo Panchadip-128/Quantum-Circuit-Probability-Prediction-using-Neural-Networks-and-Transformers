@@ -39,6 +39,11 @@ Sample Output of predicted probability
 
 This project demonstrates how a Transformer neural network can learn to predict quantum measurement probabilities for a single-qubit RX rotation circuit. The workflow integrates quantum theory, machine learning, and comprehensive evaluation with clear visualizations.
 
+# Quantum Measurement using Transformers:
+
+![image](https://github.com/user-attachments/assets/4c6ca537-d7fa-4441-aa4f-d1e5ccc66a1e)
+
+
 Workflow Overview
 Data Generation
 
